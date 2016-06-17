@@ -1,0 +1,2 @@
+defmodule LoggingBackendFoo do
+end
